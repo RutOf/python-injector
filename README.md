@@ -6,9 +6,6 @@
     Inject code into remote python process.
     <br />
     <br />
-    <a href="https://github.com/bytedance/Elkeid/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/bytedance/Elkeid/issues">Request Feature</a>
   </p>
 </p>
 
@@ -113,7 +110,7 @@ Inject script:
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/bytedance/Elkeid/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/SarnaxLii/python-injector/issues) for a list of proposed features (and known issues).
 
 
 
@@ -140,12 +137,7 @@ Distributed under the Apache-2.0 License.
 <!-- CONTACT -->
 ## Contact
 
-Bytedance - [@bytedance](https://github.com/bytedance)
+Discord Accout - Sarnax#8465
 
-Project Link: [https://github.com/bytedance/Elkeid](https://github.com/bytedance/Elkeid)
+Discord : [Hex Project](https://discord.gg/bzfWPSsDfR)
 
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [ELFIO](https://github.com/serge1/ELFIO)
